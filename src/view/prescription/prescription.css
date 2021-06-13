@@ -1,0 +1,22 @@
+.left {
+    margin-left: 10%;
+}
+
+.full {
+    width: 95%;
+}
+
+.lab {
+    margin-right: 5%;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.tab {
+    width: 75% !important;
+}
+
+.des {
+    width: 50%;
+    margin-bottom: 10px;
+}

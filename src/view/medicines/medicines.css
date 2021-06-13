@@ -1,0 +1,11 @@
+.space {
+    margin-left: 5% !important;
+}
+
+.right {
+    float: right;
+}
+
+.active {
+    margin-top: 2px;
+}

@@ -1,0 +1,31 @@
+.space {
+    margin-left: 5% !important;
+}
+
+.right {
+    float: right;
+}
+
+.active {
+    margin-top: 2px;
+}
+
+.card {
+    text-align: left;
+}
+
+.det {
+    max-width: 40%;
+}
+
+.lab {
+    margin-right: 5%;
+    font-weight: bold;
+    font-size: medium;
+}
+
+.doctorList {
+    width: 70%;
+    margin: 5%;
+    text-align: center;
+}
